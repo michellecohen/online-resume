@@ -1,0 +1,41 @@
+body {
+	font-size: 18px;
+	font-family: calibri;
+	background: #f6f6f6;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	padding: 50px;
+	margin: 30px;
+}
+
+a {
+	font-weight: bold;	
+}
+
+nav {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+img {
+	border: solid 1px;
+	padding: 5px;
+	margin: 10px;
+}
+
+img.portrait {
+	float: right;
+}
+
+hr.short {
+	clear: left;
+}
+
+p.joe {
+	width: 75%;
+	clear: left;
+}

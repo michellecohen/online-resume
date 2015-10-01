@@ -22,17 +22,20 @@ h1 {
 }
 
 img {
-	float: right;
 	border: solid 1px;
 	padding: 5px;
 	margin: 10px;
+}
+
+img.portrait {
+	float: right;
 }
 
 hr.short {
 	clear: left;
 }
 
-p {
+p.joe {
 	width: 75%;
 	clear: left;
 }

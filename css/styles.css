@@ -23,4 +23,16 @@ h1 {
 
 img {
 	float: right;
+	border: solid 1px;
+	padding: 5px;
+	margin: 10px;
+}
+
+hr.short {
+	clear: left;
+}
+
+p {
+	width: 75%;
+	clear: left;
 }
